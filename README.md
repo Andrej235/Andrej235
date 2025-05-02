@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Andrej 👋
 
-<!--
-**Andrej235/Andrej235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack web developer with a love for backend systems, clean architecture, and the occasional deep dive into strange tech.
+Most of my work revolves around **C#/.NET**, and **Next.js**, but I also enjoy experimenting with some other, more 'exotic' languages, and building tools that speed up development.
 
-Here are some ideas to get you started:
+I believe in learning by building, breaking things to understand them, and sharing progress along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats-gray-tau.vercel.app?user=andrej235&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrej235&theme=github_dark&layout=compact&hide_border=true)
