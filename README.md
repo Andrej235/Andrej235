@@ -2,7 +2,7 @@
 
 i mostly do websites, but i also don't mind occasional experiments
 
-[website](https://www.nenadic.dev/sr) [linkedin](https://www.linkedin.com/in/andrejnenadic) [github issues](https://github.com/Andrej235/Andrej235/issues)
+[website](https://www.nenadic.dev/en) [linkedin](https://www.linkedin.com/in/andrejnenadic) [github issues](https://github.com/Andrej235/Andrej235/issues)
 
 ---
 
