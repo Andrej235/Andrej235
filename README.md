@@ -6,4 +6,4 @@ i mostly do websites, but i also don't mind occasional experiments
 
 ---
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrej235&theme=github_dark&layout=compact&hide_border=true&langs_count=4)
+![WakaTime stats](https://github-readme-stats-ecru-omega-b7efkjlou4.vercel.app/api/wakatime?username=andrej235&theme=github_dark&layout=compact&hide_border=true&langs_count=4)
